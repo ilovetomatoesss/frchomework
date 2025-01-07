@@ -9,9 +9,9 @@ private double height;
 //constructor: sets default values
 public Person() {
 age = 16;
-name = Emmer Checkers; 
+name = "Emmer Checkers"; 
 height = 6.5; 
-hairColor = bright purple;
+hairColor = "bright purple";
 }
 
 //void means it doesn't return anything
@@ -34,7 +34,7 @@ public void setHairColor(String newHairColor){
 
 // specified how it returns string
 public String toString(){
-  return new String "This person" + name + "is" + age + "years old and is" + height + "feet tall. This person's hair color is" + hairColor + "."
+  return "This person " + name + " is " + age + " years old and is " + height + " feet tall. This person's hair color is " + hairColor + ".";
   
 }
 
