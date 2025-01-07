@@ -32,8 +32,9 @@ public void setHairColor(String newHairColor){
   hairColor = newHairColor;
 }
 
+// specified how it returns string
 public String toString(){
-  return new String "This person" + name + "is" + age + "years old and is" + height + "feet tall. This person's hair color is" + hair color + "."
+  return new String "This person" + name + "is" + age + "years old and is" + height + "feet tall. This person's hair color is" + hairColor + "."
   
 }
 
