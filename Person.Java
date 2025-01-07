@@ -1,8 +1,8 @@
 public class Person {
-String name;
-String hairColor;
-int age;
-double height;
+public String name;
+private String hairColor;
+private int age;
+private double height;
 
 public Person() {
 age = 16;
