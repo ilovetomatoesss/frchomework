@@ -1,11 +1,16 @@
 class Main {
-    
+    // exercise 2
     int grade = 102.5;
+    // exercise 3
     boolean icecream = true;
+    // exercise 4
     int FavNum = 7;
+    // exercise 5
     int test1 = 83;
     int test2 = 25;
     int test3 = 98;
+    // exercise 8
+    String favSubject = "math";
 
     // exercise 1
     System.out.println("Hello")
@@ -19,7 +24,7 @@ class Main {
     
     // exercise 3
     public String toString(){
-        return "The statement I like ice cream is " + icecream "."}
+        return "The statement I like ice cream is " + icecream ".";}
 
     // exercise 4
     FavNum = Favnum + 10;
@@ -39,4 +44,12 @@ class Main {
     System.out.println("I feel good about the content.")
     System.out.println("No, I don't feel lost.")
     System.out.println("Not yet, but I'll ask if I do.")
-}
+
+    // exercise 7 
+    System.out.print("Yes, No, 10th grade!")
+
+    // exercerise 8
+    public String toString(){
+        return "My phavorite subject is " + favSubject ".";}
+            
+        }
