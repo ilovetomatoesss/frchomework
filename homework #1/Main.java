@@ -15,11 +15,11 @@ class Main {
     System.out.println(grade)
 
     public String toString(){
-        return "My math grade is " grade ".";}
+        return "My math grade is "  + grade ".";}
     
     // exercise 3
     public String toString(){
-        return "The statement I like ice cream is " icecream "."}
+        return "The statement I like ice cream is " + icecream "."}
 
     // exercise 4
     FavNum = Favnum + 10;
