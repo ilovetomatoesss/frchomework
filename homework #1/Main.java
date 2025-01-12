@@ -36,5 +36,7 @@ class Main {
     
 
     // exercise 6
-
+    System.out.println("I feel good about the content.")
+    System.out.println("No, I don't feel lost.")
+    System.out.println("Not yet, but I'll ask if I do.")
 }
